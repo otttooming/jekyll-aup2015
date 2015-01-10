@@ -148,7 +148,7 @@
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #fed136;
 }
 
 .timeline>li .timeline-image h4 {
